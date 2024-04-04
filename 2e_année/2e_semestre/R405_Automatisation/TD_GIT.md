@@ -8,6 +8,9 @@ Suivre les étapes dans l'ordre pour sauvegarder nos informations sur notre repo
 * **git push** : push les informations sur github pour tout mettre à jour 
 * **git pull** : récuperer des informations depuis notre repository github (en cas de travaux de groupe)
 * **cat "nom du fichier"** : affiche le contenu du fichier 
+* **git branche "nom de la branche"** : créer une nouvelle branche 
+* **git checkout "nom de la branch"** : changer de branche
+* **git branch** : donne la liste des branches créé. 
 
 
 ### Part 2: Initializing Git
