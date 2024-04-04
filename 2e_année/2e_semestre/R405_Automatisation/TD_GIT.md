@@ -1,6 +1,15 @@
 # TD GIT
 
-### Step 2: Initialize a Git Repository.
+### Part 1 : Commande de base : 
+Suivre les étapes dans l'ordre pour sauvegarder nos informations sur notre repository : 
+* **CTRL + S / COMMAND + S** : sauvegarder les modifications 
+* **git add .**  : ajoute les modifications 
+* **git commit -m** "nom de la modif" enregistrer les modifications 
+* **git push** : push les informations sur github pour tout mettre à jour 
+* **git pull** : récuperer des informations depuis notre repository github (en cas de travaux de groupe)
+
+
+### Part 2: Initializing Git
 
 > Commandes : \
 > **ls** : liste les fichiers de l'endroit ou l'on se trouve dans l'arborésence 
@@ -17,4 +26,8 @@
 >
 > git config --global user.email sample@example.com : Ajoute une adresse mail : 
 > * git config --global user.email jimsberro@gmail.com
+>
 > 
+<br>
+
+### Part 3: Staging and Committing a File in the Repository
