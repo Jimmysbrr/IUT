@@ -3,8 +3,10 @@
 ### Step 2: Initialize a Git Repository.
 
 > Commandes : \
-> **ls** : liste les fichiers de l'endroit ou l'on se trouve dans l'arborésence
-> **git config --list** : donne toutes les informations sur le git utilisé. \
+> **ls** : liste les fichiers de l'endroit ou l'on se trouve dans l'arborésence 
+> <br>
+> **git config --list** : donne toutes les informations sur le git utilisé. 
+> <br>
 > **cd** : pour se deplaser dans l'arborésence
 
 <br>
