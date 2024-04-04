@@ -17,6 +17,9 @@ Suivre les étapes dans l'ordre pour sauvegarder nos informations sur notre repo
 > **git config --list** : donne toutes les informations sur le git utilisé. 
 > <br>
 > **cd** : pour se deplaser dans l'arborésence
+> <br>
+> **git log** : affiche les logs des modifications (push, pull etc..)
+> 
 
 <br>
 <br>
@@ -31,3 +34,4 @@ Suivre les étapes dans l'ordre pour sauvegarder nos informations sur notre repo
 <br>
 
 ### Part 3: Staging and Committing a File in the Repository
+
